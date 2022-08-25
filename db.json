@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Renato",
+      "empresa": "Software Natura ",
+      "email": "renatom1912@gmail.com",
+      "telefono": "0985540871",
+      "notas": "Cliente recomendado por otro ",
+      "id": 1
+    },
+    {
+      "nombre": "naomi",
+      "empresa": "Breaking Bad",
+      "email": "naomi@gmail.com",
+      "telefono": "789456",
+      "notas": "xd",
+      "id": 2
+    },
+    {
+      "nombre": "Sara",
+      "empresa": "Heavens ",
+      "email": "sara@gmail.com",
+      "telefono": "0981658538",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
